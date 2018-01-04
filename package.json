@@ -1,0 +1,19 @@
+{
+  "name": "unofficial-light-bootstrap-dashboard",
+  "version": "1.0.0",
+  "description": "unofficial and unsupported npm deployment of light-bootstrap-dashboard template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poernahi/light-bootstrap-dashboard.git"
+  },
+  "author": "Creative Tim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poernahi/light-bootstrap-dashboard/issues"
+  },
+  "homepage": "https://github.com/poernahi/light-bootstrap-dashboard#readme"
+}
